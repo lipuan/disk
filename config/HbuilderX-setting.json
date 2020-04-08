@@ -1,0 +1,13 @@
+{
+    "editor.colorScheme" : "Atom One Dark",
+    "editor.fontFamily" : "JetBrains Mono",
+    "editor.fontFmyCHS" : "微软雅黑",
+    "editor.guessIndent" : false,
+    "editor.insertSpaces" : true,
+    "editor.longLineIndicatorColumn" : 120,
+    "editor.scrollBeyondLastLine" : false,
+    "editor.showEndOfLine" : false,
+    "editor.tabSize" : 3,
+    "files.associations.contextmenu" : true,
+    "files.associations.suffixs" : "nvue"
+}

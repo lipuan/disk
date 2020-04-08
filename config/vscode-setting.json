@@ -1,0 +1,29 @@
+{
+   "workbench.startupEditor": "newUntitledFile",
+   "workbench.tips.enabled": false,
+   "window.openFilesInNewWindow": "default",
+   "window.openFoldersInNewWindow": "default",
+   "explorer.openEditors.visible": 0,
+   "editor.fontSize": 16,
+   "editor.tabSize": 3,
+   "editor.renderWhitespace": "all",
+   "editor.rulers": [120],
+   "editor.trimAutoWhitespace": true,
+   "editor.multiCursorModifier": "ctrlCmd",
+   "editor.insertSpaces": true,
+   "editor.links": false,
+   "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+   },
+  "editor.dragAndDrop": false,
+  "editor.detectIndentation": false,
+  "git.enableSmartCommit": true,
+  "files.trimTrailingWhitespace": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "editor.renderControlCharacters": false,
+  "editor.foldingStrategy": "indentation",
+  "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace"
+}
